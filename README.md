@@ -14,5 +14,5 @@ The following tools are included with the Docker image:
 ### Usage
 ```
 $ docker build -t bananapwn https://github.com/bananactf/bananapwn.git
-$ docker -it bananapwn bash
+$ docker run -it bananapwn bash
 ```

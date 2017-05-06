@@ -20,6 +20,9 @@ RUN apt-get install -y binutils build-essential curl gdb git git-extras  \
 # Upgrade pip and setuptools
 RUN pip install --upgrade pip setuptools
 
+# Install angr
+RUN pip install angr
+
 # Install Binwalk
 ## Requires X11, so be prepared to wait...
 RUN apt-get install -y binwalk

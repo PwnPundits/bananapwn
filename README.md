@@ -3,6 +3,7 @@ Docker image for security CTF/pwn tools
 
 ### Tools
 The following tools are included with the Docker image:
+ - [angr](http://angr.io)
  - [binwalk](https://github.com/devttys0/binwalk)
  - [Manticore](https://github.com/trailofbits/manticore)
  - [NoSQLMap](https://github.com/tcstool/NoSQLMap)

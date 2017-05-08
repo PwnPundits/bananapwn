@@ -6,6 +6,7 @@ The following tools are included with the Docker image:
  - [angr](http://angr.io)
  - [binwalk](https://github.com/devttys0/binwalk)
  - [Manticore](https://github.com/trailofbits/manticore)
+ - [nmap](https://nmap.org)
  - [NoSQLMap](https://github.com/tcstool/NoSQLMap)
  - [pwndbg](https://github.com/pwndbg/pwndbg)
  - [pwntools](https://github.com/Gallopsled/pwntools)
